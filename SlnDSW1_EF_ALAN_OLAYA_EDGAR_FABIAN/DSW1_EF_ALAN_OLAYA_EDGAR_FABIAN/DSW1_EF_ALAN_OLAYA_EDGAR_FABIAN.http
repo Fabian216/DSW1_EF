@@ -1,0 +1,6 @@
+@DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN_HostAddress = http://localhost:5195
+
+GET {{DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
