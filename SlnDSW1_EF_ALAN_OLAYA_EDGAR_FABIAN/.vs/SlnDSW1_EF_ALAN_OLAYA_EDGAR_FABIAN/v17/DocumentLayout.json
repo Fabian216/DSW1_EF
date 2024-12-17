@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F4C016-343E-43C5-83E0-98DF5A9A864A}|DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.csproj|c:\\users\\fabian\\documents\\espacio_dsw\\ef\\slndsw1_ef_alan_olaya_edgar_fabian\\dsw1_ef_alan_olaya_edgar_fabian\\controllers\\articulosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F4C016-343E-43C5-83E0-98DF5A9A864A}|DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.csproj|solutionrelative:dsw1_ef_alan_olaya_edgar_fabian\\controllers\\articulosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F4C016-343E-43C5-83E0-98DF5A9A864A}|DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.csproj|c:\\users\\fabian\\documents\\espacio_dsw\\ef\\slndsw1_ef_alan_olaya_edgar_fabian\\dsw1_ef_alan_olaya_edgar_fabian\\models\\bdventas2024apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F4C016-343E-43C5-83E0-98DF5A9A864A}|DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.csproj|solutionrelative:dsw1_ef_alan_olaya_edgar_fabian\\models\\bdventas2024apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticulosAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Controllers\\ArticulosAPIController.cs",
+              "RelativeDocumentMoniker": "DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Controllers\\ArticulosAPIController.cs",
+              "ToolTip": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Controllers\\ArticulosAPIController.cs",
+              "RelativeToolTip": "DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Controllers\\ArticulosAPIController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:16:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bdventas2024apiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Models\\Bdventas2024apiContext.cs",
+              "RelativeDocumentMoniker": "DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Models\\Bdventas2024apiContext.cs",
+              "ToolTip": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Models\\Bdventas2024apiContext.cs",
+              "RelativeToolTip": "DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN\\Models\\Bdventas2024apiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:14:30.877Z",
+              "EditorCaption": ""
             }
           ]
         }

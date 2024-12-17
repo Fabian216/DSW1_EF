@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props" />
+</Project>

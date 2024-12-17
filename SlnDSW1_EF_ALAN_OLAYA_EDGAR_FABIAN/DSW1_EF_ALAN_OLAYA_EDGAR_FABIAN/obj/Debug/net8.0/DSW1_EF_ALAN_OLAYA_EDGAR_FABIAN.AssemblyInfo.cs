@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ce8de24ce744fc0b6d714d316b2c50eecfc87ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -30,43 +30,45 @@ public partial class Bdventas2024apiContext : DbContext
     }
 
     // Método para ejecutar el procedimiento almacenado sp_FiltrarArticuloActivoPorID
-    public TbArticulo FiltrarArticuloActivoPorID(string codigoArticulo)
+    public async Task<TbArticulo?> FiltrarArticuloActivoPorID(string codigoArticulo)
     {
-        // Ejecutamos el procedimiento almacenado pasando el parámetro
         var parametro = new SqlParameter("@CodigoArticulo", codigoArticulo);
 
-        // Ejecutamos el procedimiento almacenado y usamos AsEnumerable para permitir operaciones adicionales en el cliente
-        var result = this.TbArticulos
-            .FromSqlRaw("EXEC sp_FiltrarArticuloActivoPorID @CodigoArticulo", parametro)
-            .AsEnumerable()  // Permite la composición en el cliente
-            .FirstOrDefault(); // Realiza la operación sobre los datos en memoria
+        // Ejecutamos el procedimiento almacenado y traemos los datos a memoria
+        var result = await Task.Run(() =>
+            this.TbArticulos
+                .FromSqlRaw("EXEC sp_FiltrarArticuloActivoPorID @CodigoArticulo", parametro)
+                .AsEnumerable()  // Trae los datos a memoria
+                .FirstOrDefault()  // Aplica la operación en memoria
+        );
 
         return result;
     }
 
     // Metodo para filtrar por iniciales
-    public List<TbArticulo> FiltrarArticulosActivosPorIniciales(string iniciales)
+    public async Task<List<TbArticulo>> FiltrarArticulosActivosPorIniciales(string iniciales)
     {
         // Parámetro para las iniciales
         var paramIniciales = new SqlParameter("@Iniciales", iniciales ?? (object)DBNull.Value);
 
         // Ejecutar el procedimiento almacenado
-        var resultados = TbArticulos
+        var resultados = await TbArticulos
             .FromSqlRaw("EXEC sp_FiltrarArticulosActivosPorIniciales @Iniciales", paramIniciales)
-            .ToList();
+            .ToListAsync();
 
         return resultados;
     }
 
-    public string DarDeBajaArticulo(string codigoArticulo)
+    //metodo para dar de baja
+    public async Task<string> DarDeBajaArticulo(string codigoArticulo)
     {
         try
         {
             // Parámetro para el procedimiento almacenado
             var paramCodigo = new SqlParameter("@Codigo", codigoArticulo);
 
-            // Ejecutar el procedimiento almacenado
-            Database.ExecuteSqlRaw("EXEC sp_DarDeBajaArticulo @Codigo", paramCodigo);
+            // Ejecutar el procedimiento almacenado de forma asincrónica
+            await Database.ExecuteSqlRawAsync("EXEC sp_DarDeBajaArticulo @Codigo", paramCodigo);
 
             // Si no hubo excepciones, devolver éxito
             return "Artículo dado de baja exitosamente.";
@@ -77,14 +79,6 @@ public partial class Bdventas2024apiContext : DbContext
             return $"Error al dar de baja el artículo: {ex.Message}";
         }
     }
-
-
-
-
-
-
-
-
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

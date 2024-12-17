@@ -1,0 +1,80 @@
+﻿@model IEnumerable<DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.Models.TbArticulo>
+
+@{
+    ViewData["Title"] = "IndexTbArticulo";
+}
+
+<h2>Lista de Artículos</h2><br>
+
+<!-- Formulario para Filtrar -->
+<form method="get" asp-action="IndexTbArticulo">
+    <div class="form-group">
+        <label for="iniciales">Filtrar por Iniciales:</label>
+        <input type="text" name="iniciales" class="form-control" placeholder="Ingrese iniciales" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button><br>
+    <a href="@Url.Action("IndexTbArticulo", "TbArticulo")" class="btn btn-secondary">Ver Todos</a>
+</form>
+
+<hr />
+
+<!-- Mostrar errores si existen -->
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<!-- Tabla para mostrar los artículos -->
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Unidad</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th>Imagen</th>
+            <th>Dado de Baja</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var articulo in Model)
+            {
+                <tr>
+                    <td>@articulo.CodArt</td>
+                    <td>@articulo.NomArt</td>
+                    <td>@articulo.UniMed</td>
+                    <td>@articulo.PreArt</td>
+                    <td>@articulo.StkArt</td>
+                    <td>
+                    <img src="@Url.Content("/articulos/" + articulo.CodArt + ".jpg")"
+                     alt="@articulo.NomArt"
+                     style="width:80px;height:80px;"/>
+                    </td>
+                    
+                    <td>
+                        @Html.ActionLink("Dar de baja", "DarDeBajaArticulo",
+                                 new { id = articulo.CodArt})
+                    </td>
+
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">No se encontraron artículos.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Mostrar cantidad total de artículos -->
+@if (Model != null)
+{
+    <div class="text-right">
+        <strong>Total de artículos:</strong> @Model.Count()
+    </div>
+}

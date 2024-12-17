@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0001.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0002.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0003.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0004.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0005.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0006.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0007.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0008.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0009.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0010.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0011.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0012.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0013.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0014.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0015.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0016.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0017.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0018.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0019.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0020.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0021.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0022.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0023.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0024.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0025.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0026.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0027.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0028.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0029.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0029.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0030.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0031.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0032.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0033.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0033.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0034.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0035.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\A0036.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\articulos\\sin_imagen.jpg",
+      "PackagePath": "staticwebassets\\articulos\\sin_imagen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fabian\\Documents\\Espacio_DSW\\EF\\SlnDSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props",
+      "PackagePath": "build\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props",
+      "PackagePath": "buildMultiTargeting\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props",
+      "PackagePath": "buildTransitive\\DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

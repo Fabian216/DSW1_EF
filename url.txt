@@ -1,0 +1,7 @@
+http://localhost:5195/api/ArticulosAPI/GetArticulos
+
+http://localhost:5195/api/ArticulosAPI/GetArticulo/A0001
+
+http://localhost:5195/api/ArticulosAPI/FiltrarPorIniciales?iniciales=MOU
+
+http://localhost:5195/api/ArticulosAPI/DarDeBaja/A0031

@@ -1,0 +1,70 @@
+﻿@model DSW1_CLIENTE_EF_ALAN_OLAYA_EDGAR_FABIAN.Models.TbArticulo
+
+@{
+    ViewData["Title"] = "DarDeBajaArticulo";
+}
+
+<h3>Producto para dar de baja</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CodArt)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CodArt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomArt)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomArt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UniMed)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UniMed)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PreArt)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PreArt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StkArt)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StkArt)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DadoDeBaja)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DadoDeBaja)
+        </dd>
+    </dl><br>
+
+ 
+    <div>
+        <img src="@Url.Content("/articulos/" + Model.CodArt + ".jpg")"
+             alt="@Model.NomArt"
+             style="width:180px;height:180px;" />
+    </div>
+
+    <!-- Botón de cancelar -->
+    <a href="@Url.Action("IndexTbArticulo", "TbArticulo")" class="btn btn-secondary">Cancelar</a><br>
+
+    <!-- Formulario para dar de baja -->
+    <form method="post" asp-action="DarDeBajaArticuloConfirmado" asp-route-id="@Model.CodArt" onsubmit="return confirmDelete('@Model.NomArt')">
+        <button type="submit" class="btn btn-danger">Dar de Baja</button>
+    </form>
+</div>
+
+<!-- Agregar JavaScript para la confirmación -->
+<script>
+    function confirmDelete(nombreArticulo) {
+        return confirm("¿Estás seguro de dar de baja el artículo: " + nombreArticulo + "?");
+    }
+</script>

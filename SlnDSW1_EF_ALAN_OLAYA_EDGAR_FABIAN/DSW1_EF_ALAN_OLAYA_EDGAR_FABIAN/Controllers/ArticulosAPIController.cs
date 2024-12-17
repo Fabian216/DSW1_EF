@@ -26,14 +26,12 @@ namespace DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.Controllers
             return listado;
         }
 
-
-
         // GET: api/<ArticulosAPIController>/5
         [HttpGet("GetArticulo/{id}")]
-        public IActionResult GetArticulo(string id)
+        public async Task<IActionResult> GetArticulo(string id)
         {
             // Llamamos al método FiltrarArticuloActivoPorID
-            var articulo = ctx.FiltrarArticuloActivoPorID(id);
+            var articulo = await ctx.FiltrarArticuloActivoPorID(id);
 
             // Verificamos si encontramos el artículo
             if (articulo == null)
@@ -47,10 +45,10 @@ namespace DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.Controllers
 
         // GET: api/ArticulosAPIController/FiltrarPorIniciales?iniciales=A
         [HttpGet("FiltrarPorIniciales")]
-        public IActionResult FiltrarArticulosPorIniciales([FromQuery] string iniciales)
+        public async Task<IActionResult> FiltrarArticulosPorIniciales([FromQuery] string iniciales)
         {
             // Llamamos al método del contexto para filtrar los artículos
-            var articulos = ctx.FiltrarArticulosActivosPorIniciales(iniciales);
+            var articulos = await ctx.FiltrarArticulosActivosPorIniciales(iniciales);
 
             // Si no se encuentran resultados, devolver 404
             if (articulos == null || articulos.Count == 0)
@@ -63,10 +61,10 @@ namespace DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.Controllers
         }
 
         [HttpPut("DarDeBaja/{codigo}")]
-        public IActionResult DarDeBajaArticulo([FromRoute] string codigo)
+        public async Task<IActionResult> DarDeBajaArticulo([FromRoute] string codigo)
         {
             // Llamar al método del contexto para dar de baja el artículo
-            var resultado = ctx.DarDeBajaArticulo(codigo);
+            var resultado = await ctx.DarDeBajaArticulo(codigo);
 
             // Verificar si el procedimiento fue exitoso o tuvo errores
             if (resultado.Contains("Error"))
@@ -76,8 +74,6 @@ namespace DSW1_EF_ALAN_OLAYA_EDGAR_FABIAN.Controllers
 
             return Ok(resultado); // Éxito en la operación
         }
-
-
 
 
         // POST api/<ArticulosAPIController>
