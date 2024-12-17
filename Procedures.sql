@@ -22,7 +22,7 @@ BEGIN
 END;
 GO
 
-EXEC sp_ListarArticulosActivos;
+--EXEC sp_ListarArticulosActivos;
 
 
 CREATE PROCEDURE sp_FiltrarArticuloActivoPorID
@@ -48,7 +48,7 @@ BEGIN
 END;
 GO
 
-EXEC sp_FiltrarArticuloActivoPorID @CodigoArticulo = 'A0001';
+--EXEC sp_FiltrarArticuloActivoPorID @CodigoArticulo = 'A0001';
 
 
 
@@ -75,7 +75,7 @@ BEGIN
 END;
 GO
 
-EXEC sp_FiltrarArticulosActivosPorIniciales @Iniciales = 'PENTIUM';
+--EXEC sp_FiltrarArticulosActivosPorIniciales @Iniciales = 'PENTIUM';
 
 
 
@@ -87,7 +87,7 @@ CREATE PROCEDURE sp_DarDeBajaArticulo
 AS
 BEGIN
     BEGIN TRY
-        BEGIN TRANSACTION; -- Iniciar una transacción
+        BEGIN TRANSACTION; 
 
         -- Verificar si el artículo existe y aún no ha sido dado de baja
         IF EXISTS (
@@ -137,17 +137,14 @@ END;
 GO
 
 
-
 --DAR DE BAJA AL CODIGO :
-EXEC sp_DarDeBajaArticulo @Codigo = 'A0034';
+--EXEC sp_DarDeBajaArticulo @Codigo = 'A0034';
 
-DROP PROCEDURE sp_FiltrarArticulosActivosPorCodigo;
 
-select * from tb_articulos
-go
+--select * from tb_articulos
 
-select * from tb_articulos_baja
-go
 
-select *from tb_articulos_liquidacion
-go
+--select * from tb_articulos_bajago
+
+--select *from tb_articulos_liquidacion
+
